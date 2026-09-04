@@ -4,6 +4,7 @@ Device changes:
 - Touchpanel: Fixed ghost touch issues
 - Display: Reworked auto-brightness configuration for smoother transitions and eliminated slider freezing
 - Power: Completely reworked powerhint for optimal performance and battery balance
+- Performance: Enabled Sustained Performance Mode for stable frame rates and thermal management under heavy workloads
 - Wi-Fi: Fixed connection drops on Wi-Fi 6 (802.11ax) networks and improved WPA3 transitional mode compatibility
 - Camera: Added new adaptive Leica camera icon
 - System: All previous features and optimizations from the Android 16 device tree are fully retained in this Android 17 build
